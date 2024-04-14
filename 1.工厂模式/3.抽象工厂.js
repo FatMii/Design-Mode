@@ -90,5 +90,5 @@ const macosFactory = new MacOSFactory();
 console.log("Test Windows UI:");
 application(windowsFactory);
 
-console.log("\nTest MacOS UI:");
+console.log("Test MacOS UI:");
 application(macosFactory);
